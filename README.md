@@ -34,7 +34,7 @@ This is an index of Spanish-language study notes for the GH-600 exam. If you are
 
 ## Sobre el autor
 
-Soy [Matías Beltramone](https://matiasbeltramone.com), full-stack senior y fundador de Signal Dev. Escribo apuntes y series técnicas en mi blog. Este cuaderno fue escrito mientras preparaba el examen: es estudio en público, no recursos curados desde la autoridad.
+Soy [Matías Beltramone](https://matiasbeltramone.com), System Engineer con más de 10 años de experiencia en el mercado. Escribo apuntes y series técnicas en mi blog. Este cuaderno fue escrito mientras preparaba el examen: es estudio en público, no recursos curados desde la autoridad.
 
 Si los apuntes te sirvieron, una star en este repo me ayuda mucho.
 
