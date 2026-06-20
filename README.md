@@ -7,7 +7,7 @@ A study companion for the **GitHub Certified: Agentic AI Developer (GH-600)** be
 ## ¿Qué es esto y para quién es?
 
 - **Para vos si**: estás preparando el GH-600, leés y escribís en español, y querés un curso propio que cubra los 6 dominios (los recursos oficiales cubren ~35-45%).
-- **No es**: un exam dump, ni preguntas tipo test, ni AI-generated content.
+- **No es**: un exam dump, ni preguntas tipo test, ni contenido generado por un LLM corriendo sobre el study guide.
 - **Sí es**: 29 apuntes (en progreso) escritos como cuaderno de estudio, con teoría densa, código real y un LAB por dominio.
 
 ## Estado actual
