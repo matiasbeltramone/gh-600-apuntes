@@ -1,6 +1,6 @@
 # GH-600 Study Notes (Apuntes en español)
 
-> **Note**: Full study notes are written in **Spanish** by [Matías Beltramone](https://matiasbeltramone.com), and live at [matiasbeltramone.com/apuntes/github-agentic-ai](https://matiasbeltramone.com/apuntes/github-agentic-ai). This repository is an **index and discovery layer** that links to each note and curates supporting resources.
+> **Note**: Full study notes are written in **Spanish** by [Matías Beltramone](https://matiasbeltramone.com), and live at [matiasbeltramone.com/apuntes/github-agentic-ai/](https://matiasbeltramone.com/apuntes/github-agentic-ai/). This repository is an **index and discovery layer** that links to each note and curates supporting resources.
 
 A study companion for the **GitHub Certified: Agentic AI Developer (GH-600)** beta exam (Microsoft / GitHub, GA expected July 2026). The notes cover all 6 official domains from the [study guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/gh-600), in a "learning in public" voice, with hands-on labs.
 
