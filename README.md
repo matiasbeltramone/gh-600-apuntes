@@ -36,6 +36,8 @@ This is an index of Spanish-language study notes for the GH-600 exam. If you are
 
 Soy [Matías Beltramone](https://matiasbeltramone.com), System Engineer con más de 10 años de experiencia en el mercado. Escribo apuntes y series técnicas en mi blog. Este cuaderno fue escrito mientras preparaba el examen: es estudio en público, no recursos curados desde la autoridad.
 
+> **Sobre el uso de IA**: Claude me asiste con revisión gramatical, edición y catching de inconsistencias durante la escritura. Pero el contenido se basa en experiencia real, pruebas hechas en mis cuentas y pensamiento crítico sobre los docs oficiales: no es output de un LLM corriendo sobre el study guide.
+
 Si los apuntes te sirvieron, una star en este repo me ayuda mucho.
 
 ## Licencia
