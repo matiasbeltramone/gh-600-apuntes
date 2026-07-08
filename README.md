@@ -8,7 +8,7 @@ A study companion for the **GitHub Certified: Agentic AI Developer (GH-600)** be
 
 - **Para vos si**: estás preparando el GH-600, leés y escribís en español, y querés un curso propio que cubra los 6 dominios (los recursos oficiales cubren ~35-45%).
 - **No es**: un exam dump, ni preguntas tipo test, ni contenido generado por un LLM corriendo sobre el study guide.
-- **Sí es**: 29 apuntes (en progreso) escritos como cuaderno de estudio, con teoría densa, código real y un LAB por dominio.
+- **Sí es**: 31 apuntes (D1-D5 completos, D6 en revisión) escritos como cuaderno de estudio, con teoría densa, código real y un LAB por dominio.
 
 ## Estado actual
 
@@ -17,11 +17,11 @@ A study companion for the **GitHub Certified: Agentic AI Developer (GH-600)** be
 | D1: Architecture & SDLC | 15-20% | Completo | [6 apuntes](./domains/01-architecture-y-sdlc.md) |
 | D2: Tools & MCP | 20-25% | Completo | [9 apuntes](./domains/02-tools-y-mcp.md) |
 | D3: Memory & State | 10-15% | Completo | [4 apuntes](./domains/03-memory-state-execution.md) |
-| D4: Evaluation & Tuning | 15-20% | Pendiente | (próximamente) |
-| D5: Multi-agent Orchestration | 15-20% | Pendiente | (próximamente) |
-| D6: Guardrails & Accountability | 10-15% | Pendiente | (próximamente) |
+| D4: Evaluation & Tuning | 15-20% | Completo | [4 apuntes](./domains/04-evaluation-y-tuning.md) |
+| D5: Multi-agent Orchestration | 15-20% | Completo | [5 apuntes](./domains/05-multi-agent-orchestration.md) |
+| D6: Guardrails & Accountability | 10-15% | Borrador | [3 apuntes](./domains/06-guardrails-y-accountability.md) |
 
-**Última actualización**: 19 de junio de 2026.
+**Última actualización**: 7 de julio de 2026. D1-D5 completos y estables; D6 en borrador (se estabiliza en los próximos días).
 
 ## Recursos curados
 
